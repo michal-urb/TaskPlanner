@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/sort_name_item"
+        android:title="Sortuj wg nazwy A-Z" />
+    <item android:id="@+id/sort_date_item"
+        android:title="Sortuj wg daty (od najbliższego)" />
+    <item android:id="@+id/sort_priority_item"
+        android:title="Wysoki priorytet" />
+    <item android:id="@+id/delete_item"
+        android:title="Usuń zakończone" />
+    <item android:id="@+id/home_item"
+        android:title="Menu główne" />
+</menu>

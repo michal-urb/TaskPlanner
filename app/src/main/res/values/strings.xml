@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskPlanner</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <string name="title_activity_add_task">AddTaskActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
